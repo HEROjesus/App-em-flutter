@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418219379962",
+    "project_id": "phibrojan",
+    "storage_bucket": "phibrojan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418219379962:android:fbfccf912b3c9360458d43",
+        "android_client_info": {
+          "package_name": "com.semcodar.tutorialffyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0--aSKNxBxnYGO3ANTxb0KmEY698SwyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
